@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+      {
+        "source": {
+          "id": "independent",
+          "name": "Independent"
+        },
+        "author": "Adam Hills",
+        "title": "The Ashes row proves elite sport is a cut-throat affair – the Lord’s chaps should applaud the Aussies",
+        "description": "England’s and Australia’s cricketers are elite athletes who must do whatever they can to win within the rules – even if some people don’t like it, writes Adam Hills",
+        "url": "http://www.independent.co.uk/voices/ashes-wicket-england-australia-bairstow-b2368585.html",
+        "urlToImage": "https://static.independent.co.uk/2023/07/03/13/e6a1736e993b4905a6639accecd361ccY29udGVudHNlYXJjaGFwaSwxNjg4NDcwNDA2-2.72846169.jpg?quality=75&width=1200&auto=webp",
+        "publishedAt": "2023-07-03T17:35:04Z",
+        "content": "I normally keep my cricketing opinions to myself, but there was an incident during the most recent Ashes Test that I feel I need to comment upon and defend. \r\nThe incident in question involved the En… [+683 chars]"
+      },
+      {
+        "source": {
+          "id": "news-com-au",
+          "name": "News.com.au"
+        },
+        "author": "Jai Bednall",
+        "title": "England finally admits the truth",
+        "description": "The Barmy Army didn&rsquo;t enjoy listening to it, but two former players finally had an honest conversation about the current England cricket team after all the drama of the Second Test.",
+        "url": "https://www.news.com.au/sport/cricket/twice-as-many-players-who-do-the-same-thing-england-finally-admits-the-truth/news-story/f3dd43d34b1494618ede1dc272fc4462",
+        "urlToImage": "https://content.api.news/v3/images/bin/d5e5857b0f50bccc72b294240b358ff2",
+        "publishedAt": "2023-07-03T16:17:00Z",
+        "content": "The Barmy Army didn’t enjoy listening to it, but two former players finally had an honest conversation about the current England cricket team after all the drama of the Second Test.\r\nAndrew Strauss a… [+4186 chars]"
+      },
+      {
+        "source": {
+          "id": "espn-cric-info",
+          "name": "ESPN Cric Info"
+        },
+        "author": null,
+        "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+        "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+        "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+        "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+        "publishedAt": "2020-04-27T11:41:47Z",
+        "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+      },
+      {
+        "source": {
+          "id": "espn-cric-info",
+          "name": "ESPN Cric Info"
+        },
+        "author": null,
+        "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+        "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+        "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+        "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+        "publishedAt": "2020-03-30T15:26:05Z",
+        "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+      }
+    ]
+  }
